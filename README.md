@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 مرحبًا، أنا Mohamad
 
-<!--
-**moatamid-mt/moatamid-mt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مرحبًا بك في صفحتي على GitHub!  
+أنا مطور Front-End مهتم بتحويل تصاميم Figma إلى صفحات ويب متجاوبة باستخدام **Next.js, React, TypeScript, HTML, CSS, SCSS**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ المهارات
+
+| المجال        | المهارات                                      |
+| ------------- | -------------------------------------------- |
+| Front-End     | HTML, CSS, SCSS, JavaScript, React, Next.js, TypeScript |
+| أدوات التصميم | Figma, Adobe XD                              |
+| أدوات أخرى    | Git, GitHub, VS Code                          |
