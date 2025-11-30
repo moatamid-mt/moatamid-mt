@@ -1,14 +1,15 @@
-# 👋 مرحبًا، أنا Mohamad
+# 👋 Hi, I'm Mohamad
 
-مرحبًا بك في صفحتي على GitHub!  
-أنا مطور Front-End مهتم بتحويل تصاميم Figma إلى صفحات ويب متجاوبة باستخدام **Next.js, React, TypeScript, HTML, CSS, SCSS**.  
+Welcome to my GitHub profile!  
+I am a Front-End developer passionate about turning **Figma designs into fully responsive websites** using **Next.js, React, and TypeScript**.
 
 ---
 
-## 🛠️ المهارات
+## 🛠️ Skills
 
-| المجال        | المهارات                                      |
-| ------------- | -------------------------------------------- |
-| Front-End     | HTML, CSS, SCSS, JavaScript, React, Next.js, TypeScript |
-| أدوات التصميم | Figma, Adobe XD                              |
-| أدوات أخرى    | Git, GitHub, VS Code                          |
+| Category       | Skills                                           |
+| -------------- | ----------------------------------------------- |
+| Front-End      | HTML, CSS, SCSS, JavaScript, React, Next.js, TypeScript |
+| Design Tools   | Figma,                                 |
+| Others         | Git, GitHub, VS Code                            |
+
