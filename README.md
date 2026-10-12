@@ -20,6 +20,3 @@ I am a Front-End developer passionate about turning **Figma designs into fully r
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moatamid-mt&theme=radical)
